@@ -4,6 +4,7 @@
   http://blog.csdn.net/zr1076311296/article/details/51519807
   http://blog.csdn.net/zr1076311296/article/details/51527540
 
+
   项目简介：利用哈夫曼编码实现文件压缩与解压
   项目描述：
     > 编码：以字符出现的频率为权值，利用Heap与贪心算法建立哈夫曼树
